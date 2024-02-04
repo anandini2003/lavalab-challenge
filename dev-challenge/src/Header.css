@@ -1,0 +1,57 @@
+body {
+    margin: 0; 
+  }
+  
+  .navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center; 
+    background-color: white;
+    height: 100px;
+    width: 100%; 
+  }
+  
+  .header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    width: 100%; 
+  }
+  
+  .left {
+    display: flex;
+    align-items: center;
+  }
+  
+  .hiveText {
+    color: #8a2be2; 
+    font-size: 30px; 
+    font-weight: bold;
+    margin-left: 40px;
+  }
+  
+  .right {
+    display: flex;
+    align-items: center;
+  }
+  
+  .profileButton {
+    width: 50px; 
+    height: 50px;
+    border-radius: 50%;
+    overflow: hidden;
+    background-color: #8a2be2; 
+    border: none;
+    cursor: pointer;
+    padding: 0;
+    margin-right: 40px;
+  }
+  
+  .profileImage {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 50%;
+  }
+  
