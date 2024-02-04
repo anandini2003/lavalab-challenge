@@ -40,6 +40,7 @@ h1 {
   font-size: 14pt;
   border-color:rgb(215, 212, 212);
   margin-top: 60px;
+  cursor: pointer;
 }
 
 .finishButton {
@@ -51,5 +52,6 @@ h1 {
   color: white;
   background-color: rgb(0, 0, 0);
   font-size: 14pt;
+  cursor: pointer;
 
 }
